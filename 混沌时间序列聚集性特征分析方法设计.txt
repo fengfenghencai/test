@@ -1,0 +1,15 @@
+1）任务及背景：
+混沌时间序列普遍存在于通信网络、智能交通、医疗保健、金融等各个领域，包括通信网络流量序列、噪声序列、行人流量序列、生物医学指标序列、金融产品价格序列等。一般认为，序列波动的聚集性源自时间序列形成的底层逻辑，如用户的业务使用习惯、行人的行走特征、心脏与大脑等组织的病变特征、金融博弈者的心理变化特征等，以至于序列中的相似结构倾向于一定程度上近乎连续地或者周期性地出现。通过对时间序列的聚集性分析，有助于更好地掌握所研究事物的本质属性，并有助于提升对时间序列的未来走势进行短时预测的概率。本题目需要组员全面调研各类混沌时间序列及其聚集性相关研究，形成初步小报告。然后，通过对指导教师提供的或在线自主找到的相关时间序列数据进行基于Matlab的特征提取，并给出最终结论。
+（2）成果形式：
+报告、基于Matlab的聚集性特征分析方法代码
+
+
+论文：
+http://www.juestc.uestc.edu.cn/cn/article/doi/10.12178/1001-0548.2022055
+https://www.juestc.uestc.edu.cn/fileDZKJDX_ZKB/journal/article/dzkjdxxbzrkxb/2022/3/PDF/2022055.pdf
+
+论坛介绍：
+https://zhuanlan.zhihu.com/p/39105270
+https://blog.csdn.net/SCS199411/article/details/90696792
+https://skywateryang.gitbook.io/timeseriesanalysis101/1111      (含代码)
+https://blog.csdn.net/sinat_41354290/article/details/118409507    (含代码)
